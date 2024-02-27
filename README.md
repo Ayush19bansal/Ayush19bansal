@@ -30,6 +30,6 @@
 <br/>
 
 ### 🔝 Top Contributed Repo
-<img src="https://github-contributor-stats.vercel.app/api?username=Ayush19bansal&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+<img src="https://github-contributor-stats.vercel.app/api?username=Ayush19bansal&limit=5&theme=light&combine_all_yearly_contributions=true" />
 
 
