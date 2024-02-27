@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Node JS Express JS and MongoDB**
 
-- 👨‍💻 All of my projects are available at [www.xxx.com](www.xxx.com)
+- 👨‍💻 All of my projects are available at [www.xxx.com](www.link)
 
 - 💬 Ask me about **React,JavaScript,HTML,CSS,JAVA**
 
