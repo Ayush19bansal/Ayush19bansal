@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Node JS Express JS and MongoDB**
 
-- 👨‍💻 All of my projects are available at [www.link.com](www.link)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://ayush-portfolio-six.vercel.app/)
 
 - 💬 Ask me about **React,JavaScript,HTML,CSS,JAVA**
 
