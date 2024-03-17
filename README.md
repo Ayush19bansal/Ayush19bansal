@@ -1,3 +1,5 @@
+![image](https://github.com/Ayush19bansal/Ayush19bansal/assets/118842033/5334b948-252a-43b8-8ca5-b922e7a474dd)
+
 <h1 align="center">Hi 👋, I'm Ayush Bansal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
